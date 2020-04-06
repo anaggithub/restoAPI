@@ -77,27 +77,27 @@ Usuario sin rol de administrador:
 - Post Users. 
 
 #### Rutas que pueden acceder todos los usuarios registrados:
-Get Products
-Post Order
+- Get Products
+- Post Order
 
 #### Rutas que pueden acceder usuarios con rol de administrador:
-Get Users
-Get User by ID
-Put User
-Delete User
+- Get Users
+- Get User by ID
+- Put User
+- Delete User
 
-Get Product by ID
-Post Product
-Put Product 
-Delete Product
+- Get Product by ID
+- Post Product
+- Put Product 
+- Delete Product
 
-Get Orders
-Get Order by ID
-Update Order by ID  (para editar el estado del pedido únicamente)
-Delete Order by ID
+- Get Orders
+- Get Order by ID
+- Update Order by ID  (para editar el estado del pedido únicamente)
+- Delete Order by ID
 
 
 Para consultar el detalle de cada ruta visitar la documentacion de la API, en la cual se puede encontrar toda la información de cada una, ya sea los parámetros, ejemplos de objetos a enviar en el body y qué devuelve cada una.
 
-Link: https://app.swaggerhub.com/apis/anagaetan/restoAPI/1#/default/put_orders__orderId_
+Link: https://app.swaggerhub.com/apis/anagaetan/restoAPI/1#/default/
 
